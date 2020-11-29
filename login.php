@@ -9,14 +9,14 @@
     <title>InventarioX</title>
 </head>
 <style>
-    body {text-align: center; font-family: Arial, Helvetica, sans-serif;}
+    body {text-align: center; font-family: Arial, Helvetica, sans-serif; background-image: url("https://media.istockphoto.com/photos/blue-lightweight-scarf-on-a-blue-pastel-background-picture-id942678436?k=6&m=942678436&s=170667a&w=0&h=R9QXv0d4th66SQChGIYpzQzivGlsO2Oki5W__UwA9I8=") }
     form {border: 3px solid #f1f1f1;padding: 16px;}
 
 
 </style>
 <body>
     <form action = "Login.php" method="POST">
-        <h3>Login de usuario</h3>
+        <h3>Login InventarioX</h3>
         <label for="txt1">Usuario:</label>
         <p>
         <input type="" name="t1" required>
